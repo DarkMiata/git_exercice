@@ -5,5 +5,5 @@ helloWorld();
 public function helloWorld() {
 	$txt = "Hello World !!";
 
-	echo $txt;
+	echo $txt.PHP_EOL;
 }
